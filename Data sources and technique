@@ -1,0 +1,5 @@
+#Data sources and techniques
+The  map was created in QGIS.
+Basemap is the ESRI satellite layer built into the map using QGIS plug-in
+Trails are from GPS files digitized by Professor Declan McCabe at Saint Michael's College
+Other map elements created by Richard Kujawa
